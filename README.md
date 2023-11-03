@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Shunli Wang (王顺利), a Ph.D. candidate at Wuhan University. 
+
+My research interests lie in advanced AI technologies for Remote Sensing images, especially for semantic segmentation.
+
+Welcome to My [AcademicPage](https://i.wshunli.com)!
+
 <!--
 **wshunli/wshunli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
